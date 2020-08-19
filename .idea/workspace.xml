@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4860a3c3-68f4-40b5-948e-5ec6e0bcfc51" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wz3pb0I6oUYQTT6h5F99Z4XmiS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4860a3c3-68f4-40b5-948e-5ec6e0bcfc51" name="Default Changelist" comment="" />
+      <created>1580138779816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580138779816</updated>
+      <workItem from="1580138781091" duration="2235000" />
+      <workItem from="1580222687222" duration="11350000" />
+      <workItem from="1580292354413" duration="16935000" />
+      <workItem from="1580380060479" duration="15918000" />
+      <workItem from="1580467440838" duration="18154000" />
+      <workItem from="1580637661912" duration="12837000" />
+      <workItem from="1580728092872" duration="4288000" />
+      <workItem from="1580752382495" duration="178000" />
+      <workItem from="1580905530344" duration="9032000" />
+      <workItem from="1580992783266" duration="5032000" />
+      <workItem from="1581074819002" duration="14103000" />
+      <workItem from="1581245442868" duration="144000" />
+      <workItem from="1581334999703" duration="8454000" />
+      <workItem from="1581960065294" duration="10000" />
+      <workItem from="1582825583894" duration="1489000" />
+      <workItem from="1583480375369" duration="4000" />
+      <workItem from="1583480383092" duration="618000" />
+      <workItem from="1585220065154" duration="174000" />
+      <workItem from="1596761290362" duration="273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1596761563312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596761563312" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1596761563312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596761563312" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1596761563312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596761563312" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1596761563312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596761563312" />
+  </component>
+</project>
